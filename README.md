@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Samuel Louis</h1>
-<h3 align="center">A passionate frontend and backend developer from Brasil, Rio de Janeiro</h3>
+<h3 align="center">A passionate frontend and backend developer from Brazil, Rio de Janeiro</h3>
 <img align="center" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" data-deferred="1" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Programmer Thomas | Personal logo inspiration, Css grid, Motion design" id="imi" data-w="800" data-h="600" data-atf="true" data-iml="72125.30000001192" style="height: 443px; width: 590.667px; margin: 0px;">
 
 <h2 font-size:40em; align="center">About Me :</h2>
