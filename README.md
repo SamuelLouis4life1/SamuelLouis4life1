@@ -126,7 +126,15 @@
 >   - API Gateway
 >   - Dependency Injection
 >   - SOLID principles
->   - JWt
+>   - JWT
+>   - Portainer
+>   - API Gateway/BFF
+>   - DDD, CQRS, and Clean Architecture
+>   - Ocelot
+>   - Grpc Service
+>   - Swagger
+>   - MassTransit and RabbitMQ
+>   - Repository Pattern
 >
 >  **[Ecommerce project link](https://github.com/SamuelLouis4life1/E_Shop_Microservices).**.
 
