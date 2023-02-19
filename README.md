@@ -95,11 +95,12 @@
 </p>
 <hr>
 
-<h2 align="center"> 💻 Check Out My Repos of  Some projects I developed </h2>
+<h2 align="center"> 💻 Check Out My Repos of Some projects I developed </h2>
 
 > <h4> 💻 C#, .NET </h4>
 >
 > -  I developed MVC web applications using C-Sharp language using:
+>     - Authentication and Authorisation using JWt
 >     - UnitTest
 >     - FluentValidation
 >     - Dependency Injection
@@ -113,6 +114,7 @@
 > 
 > - I Developed applications using Microservices concepts which implemented e-commerce modules over Catalog, Basket, Discount and Ordering microservices with NoSQL (MongoDB, Redis) and Relational databases (PostgreSQL, Sql Server) with communicating over RabbitMQ Event Driven Communication and using Ocelot API Gateway.
 > 
+>   - REST API
 >   - RabbitMQ 
 >   - PostgreSQL
 >   - Server
@@ -120,8 +122,11 @@
 >   - MongoDB
 >   - Redis
 >   - Ocelot
+>   - Docker
 >   - API Gateway
 >   - Dependency Injection
+>   - SOLID principles
+>   - JWt
 >
 >  **[Ecommerce project link](https://github.com/SamuelLouis4life1/E_Shop_Microservices).**.
 
@@ -152,7 +157,7 @@
 >  **[Rede Neural Classificador](https://colab.research.google.com/drive/1GttwCfIlT-0f8zdAspDoqD_kpvDZWPPW).**.
 >  **[Warehouse](https://colab.research.google.com/drive/1bouSdYQaQkPxCnkx-CoelORSs2LTrIGs).**.
 >  **[Lunar Lander](https://colab.research.google.com/drive/1uJwN5wOFBy2--MbbssflWBrzsMDAh0vi).**.
->  **[Breast Cancer Project link](https://colab.research.google.com/drive/1R_j2tzxA6J5T2d4jne6_zY8zJ05IJCV3).**.
+>  **[Breast Cancer](https://colab.research.google.com/drive/1R_j2tzxA6J5T2d4jne6_zY8zJ05IJCV3).**.
 >  **[Data Science Regression](https://colab.research.google.com/drive/1qVJ-Qm52S9TAAfgNalf2dW1LEj5-9J-s).**.
 
 > <h4> 💻 Figma, Webflow </h4>
